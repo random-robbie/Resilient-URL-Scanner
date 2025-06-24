@@ -1,0 +1,15 @@
+# Sample URLs for testing the scanner
+# Replace these with your actual target URLs (one per line)
+# 
+# Examples:
+# example.com
+# test.com
+# google.com
+# github.com
+# stackoverflow.com
+#
+# For penetration testing, ensure you have proper authorization
+# before scanning any domains or networks.
+#
+# Remove the # symbol and add your URLs below:
+
